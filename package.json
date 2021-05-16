@@ -1,0 +1,14 @@
+{
+  "name": "notbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "main index.js"
+  },
+  "author": "furkan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
